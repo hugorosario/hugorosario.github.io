@@ -1,10 +1,5 @@
-remote_theme: pages-themes/slate@v0.2.0
-
-plugins:
-- jekyll-remote-theme 
+theme: minima
 
 title: Hugo Rosário
-description: > 
-  Hello there, welcome to my personal website.
-  A place to share projects and ideas I explore once in a while. 
+description: Hello there, welcome to my personal website.
 show_downloads: false

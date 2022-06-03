@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Why use Github Pages?
+permalink: /why-gh-pages/
 ---
 
 You might be wondering why I am using github pages for this website, right?

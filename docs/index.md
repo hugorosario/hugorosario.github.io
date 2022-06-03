@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcom to my website
+title: Welcome to my website
 permalink: /welcome/
 ---
 

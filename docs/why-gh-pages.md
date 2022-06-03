@@ -1,4 +1,7 @@
-Why Github Pages?
+---
+layout: page
+title: Why use Github Pages?
+---
 
 You might be wondering why I am using github pages for this website, right?
 

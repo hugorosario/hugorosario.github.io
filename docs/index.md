@@ -1,4 +1,8 @@
-Welcome to GitHub Pages
+---
+layout: page
+title: Welcom to my website
+permalink: /welcome/
+---
 
 You can use the [editor on GitHub](https://github.com/hugorosario/hugorosario.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 

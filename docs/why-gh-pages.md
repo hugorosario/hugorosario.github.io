@@ -1,6 +1,6 @@
-## Why am I using Github Pages?
+# Why Github Pages?
 
-You might be wondering I am using github pages for this website, right?
+You might be wondering why I am using github pages for this website, right?
 
 Well, there is a few reasons:
 

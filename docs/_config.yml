@@ -4,4 +4,7 @@ plugins:
 - jekyll-remote-theme 
 
 title: Hugo Rosário
-description: Hello there, welcome to my personal website.\nA place to share projects and ideas I explore once in a while. 
+description: > 
+  Hello there, welcome to my personal website.
+  A place to share projects and ideas I explore once in a while. 
+show_downloads: false
